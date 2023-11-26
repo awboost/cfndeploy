@@ -51,8 +51,8 @@
     "typescript": "~5.2"
   },
   "dependencies": {
-    "@awboost/cfnassets": "^0.5.2",
-    "@awboost/cfntemplate": "^0.5.0",
+    "@awboost/cfnassets": "^0.6.0",
+    "@awboost/cfntemplate": "^0.6.0",
     "@aws-sdk/client-cloudformation": "^3.92.0",
     "@aws-sdk/client-s3": "^3.92.0",
     "@aws-sdk/lib-storage": "^3.92.0",
